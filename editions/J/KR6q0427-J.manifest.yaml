@@ -1,0 +1,320 @@
+canonical_identifier: bkk:krp/KR6q0427/J/v1
+canonical_location: https://kanripo.org/bkk/KR6q0427/J/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 永濟融禪師語錄
+  identifiers:
+    krp: KR6q0427
+    cbeta: J28nB209
+    cbeta_old_id: J28nB209
+    authorityid: CA0005884
+    json_key: JB209
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/J/J28/J28nB209.xml
+    old_id: J28nB209
+  edition:
+    short: J
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0427_000-J.yaml, hash: 'sha256:f47e9539f82f36f4815d9e4adfff5cfa249ca90201272aa18e38d24cfbe099e2'}
+  - {seq: 1, filename: KR6q0427_001-J.yaml, hash: 'sha256:3a862f5bde3839b54fc4d5992c12f2bfba973d1e891e77ca5997f54dee27de2f'}
+  - {seq: 2, filename: KR6q0427_002-J.yaml, hash: 'sha256:d0efd0fdeae58e53c7a653547bf3b7c915a4bdbc02853ce0d4b6e5252ce3f09d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0427_000-J.markers.yaml, hash: 'sha256:4c4d4554714add03199afc4782c9c654dae8010d30287e3cfedd831537b91796'}
+  - {seq: 1, role: markers, filename: assets/KR6q0427_001-J.markers.yaml, hash: 'sha256:42ccc95e50d287bad4562f0ac762ebb130215c2244cb60ad5206cdab4449a4d9'}
+  - {seq: 2, role: markers, filename: assets/KR6q0427_002-J.markers.yaml, hash: 'sha256:e077741d27f8ba1fb8777581f47c1268692e2a18365998580c11327fb0a5c4f5'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0427_J_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0427_J_001-juan-start
+    span:
+    - body
+    - 0
+    - 7848
+  label: 永濟融禪師住關東廣寧普慈寺語錄卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0427_J_001-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 住關東廣寧普慈寺語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0427_J_001-mulu-2
+    span:
+    - body
+    - 629
+    - 629
+  label: 住遼陽永安寺語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0427_J_001-mulu-3
+    span:
+    - body
+    - 1945
+    - 1945
+  label: 再住永安禪寺語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0427_J_001-mulu-4
+    span:
+    - body
+    - 6000
+    - 6000
+  label: 附掛鐘板　齋單
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0427_J_001-mulu-5
+    span:
+    - body
+    - 6000
+    - 6000
+  label: 附閭山大觀音閣結制掛鐘板
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0427_J_001-mulu-6
+    span:
+    - body
+    - 6083
+    - 6083
+  label: 附齋單
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0427_J_001-mulu-7
+    span:
+    - body
+    - 6200
+    - 6200
+  label: 小參
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0427_J_001-mulu-8
+    span:
+    - body
+    - 6761
+    - 6761
+  label: 住雙塔寺語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0427_J_001-mulu-9
+    span:
+    - body
+    - 6968
+    - 6968
+  label: 垂問
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0427_J_001-mulu-10
+    span:
+    - body
+    - 7021
+    - 7021
+  label: 落堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0427_J_001-mulu-11
+    span:
+    - body
+    - 7086
+    - 7086
+  label: 入室機緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0427_J_001-mulu-12
+    span:
+    - body
+    - 7335
+    - 7335
+  label: 勘辨機緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0427_J_001-mulu-13
+    span:
+    - body
+    - 7802
+    - 7802
+  label: 自讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0427_J_002-juan-start
+    span:
+    - body
+    - 0
+    - 7061
+  label: 永濟融禪師住遼陽永安寺語錄卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0427_J_002-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 普說
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0427_J_002-mulu-2
+    span:
+    - body
+    - 2527
+    - 2527
+  label: 茶話
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0427_J_002-mulu-3
+    span:
+    - body
+    - 2684
+    - 2684
+  label: 拈古
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0427_J_002-mulu-4
+    span:
+    - body
+    - 3551
+    - 3551
+  label: 頌古
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0427_J_002-mulu-5
+    span:
+    - body
+    - 4798
+    - 4798
+  label: 雜錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0427_J_002-mulu-6
+    span:
+    - body
+    - 4800
+    - 4800
+  label: 康熙壬寅年過都京掃月心笑祖塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0427_J_002-mulu-7
+    span:
+    - body
+    - 4893
+    - 4893
+  label: 戊申冬過嘉興府如如菴埽萬如法祖齒髮塔上供拈香云
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0427_J_002-mulu-8
+    span:
+    - body
+    - 4963
+    - 4963
+  label: 和密雲悟祖題京口金山寺詩韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0427_J_002-mulu-9
+    span:
+    - body
+    - 5035
+    - 5035
+  label: 辛丑年師在廣寧普慈寺出示邪教檄文
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0427_J_002-mulu-10
+    span:
+    - body
+    - 5159
+    - 5159
+  label: 又出經首八字以難魔徒而魔眾默不能對師復頌云
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0427_J_002-mulu-11
+    span:
+    - body
+    - 5208
+    - 5208
+  label: 答徐可勗見寄佳什兼次風字韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0427_J_002-mulu-12
+    span:
+    - body
+    - 5261
+    - 5261
+  label: 示捷貫書記
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0427_J_002-mulu-13
+    span:
+    - body
+    - 5294
+    - 5294
+  label: 行實
+  type: mulu
+  level: 1
+hash: sha256:44154c40f34ab0d44f80515dca9d6548ba282bd0455672c5efd3275ccd0041ee
