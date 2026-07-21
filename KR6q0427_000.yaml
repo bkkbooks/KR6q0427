@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6q0427/j/v1/juan/0
 seq: 0
-front:
+body:
   text: 永濟融禪師語録目次卷上上堂附挂鐘板齋單小參雙塔寺入院法語垂問落堂語入室機緣勘辨機緣自讚卷下普説茶話拈古頌古雜録行實
   hash: sha256:bb4c57ebb1c9d20437981b3d0d9c2dba94a6076bb35d29ba2ee9f53402ee86e2
   markers:
   - {type: 其他, offset: 0, content: 目次, id: KR6q0427_J_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 永濟融禪師語錄
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/J/J28/J28nB209.xml
     old_id: J28nB209
-hash: sha256:ba35e478b67c9af8d034c35f808a982028d610605938056446559abbc6d53b3c
+hash: sha256:d2b9d370dc89a2dbbc8e267d879826082d1f50780f3f65556e68894f92113ab2
